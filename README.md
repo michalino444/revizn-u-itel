@@ -1,2 +1,2 @@
-# revizn-u-itel
+# revizniucitel
 Procvičování elektro
